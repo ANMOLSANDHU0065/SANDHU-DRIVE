@@ -44,62 +44,6 @@ A modern, responsive file-management web application built with Python and Flask
     │   └── index.html
     └── storage/
 
-## 🚀 Run Locally
-
-### 1. Clone the repository
-
-    git clone YOUR_GITHUB_REPOSITORY_URL
-    cd SANDHU-DRIVE
-
-Replace `YOUR_GITHUB_REPOSITORY_URL` with your actual repository URL.
-
-### 2. Create a virtual environment
-
-    python -m venv .venv
-
-Activate it on Windows:
-
-    .venv\Scripts\activate
-
-### 3. Install dependencies
-
-    pip install -r requirements.txt
-
-### 4. Start the application
-
-    python app.py
-
-Open this address in your browser:
-
-    http://127.0.0.1:5000
-
-## 🧪 Run Tests
-
-Run the complete automated test suite:
-
-    pytest -v
-
-Run only backend service tests:
-
-    pytest tests/test_file_service.py -v
-
-Run only Flask route tests:
-
-    pytest tests/test_app.py -v
-
-## 🔌 Available Endpoints
-
-| Method | Endpoint | Purpose |
-|---|---|---|
-| GET | `/` | File dashboard |
-| POST | `/upload` | Upload files |
-| GET | `/download/<name>` | Download a file |
-| GET | `/preview/<name>` | Preview or safely download a file |
-| POST | `/rename` | Rename a file |
-| POST | `/delete` | Delete a file |
-| POST | `/clear` | Clear workspace files |
-| GET | `/api/stats` | Storage statistics |
-| GET | `/health` | Health check |
 
 ## 💳 Membership Concept
 
