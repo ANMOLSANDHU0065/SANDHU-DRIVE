@@ -89,12 +89,13 @@ For cloud deployment, configure persistent storage separately. Files saved to an
 
 ## 👨‍💻 Developer
 
-**Sandhu Drive**  
-A Python and Flask file-management project.
+**Anmol Singh Sandhu**  
+Python & Flask Developer | BCA Student
 
-- GitHub: Add your repository URL
-- LinkedIn: Add your profile URL
+- **GitHub:** [ANMOLSANDHU0065](https://github.com/ANMOLSANDHU0065)
+- **Project Repository:** [SANDHU-DRIVE](https://github.com/ANMOLSANDHU0065/SANDHU-DRIVE)
+- **LinkedIn:** [Anmol Singh Sandhu](https://www.linkedin.com/in/anmol-sandhu-ch01as07/)
 
 ## 📄 License
 
-Choose and add a suitable open-source license before distributing this project.
+This project is open for learning and development. A suitable open-source license can be added to define the terms of use and distribution.
